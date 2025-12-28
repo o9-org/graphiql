@@ -1,0 +1,15 @@
+# README.md
+
+📄 File in **graphiql** repository
+
+## Location
+
+- **Organization**: [e9-o9](https://github.com/e9-o9)
+- **Repository**: [graphiql](https://github.com/e9-o9/graphiql)
+- **Path**: `working-group/README.md`
+- **Type**: blob
+- **Size**: 1979 bytes
+- **View**: [GitHub](https://github.com/e9-o9/graphiql/blob/main/working-group/README.md)
+
+---
+*Auto-generated fractal mapping (Level 3)*
